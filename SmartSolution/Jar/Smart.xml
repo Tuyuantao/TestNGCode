@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SmartSolution">
+  <test name="IP" preserve-order="true">
+    <classes>
+      <class name="IP.IPWorklist">
+        <methods>
+          <include name="VerifyViews"/>
+          <include name="VerifyDischargeDate"/>
+          <include name="VerifyFacilities"/>
+        </methods>
+      </class> <!-- IP.IPWorklist -->
+    </classes>
+  </test> <!-- IP -->
+</suite> <!-- SmartSolution -->

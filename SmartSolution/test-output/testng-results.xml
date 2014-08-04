@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TmpSuite" duration-ms="14547" started-at="2014-08-01T07:36:33Z" finished-at="2014-08-01T07:36:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test 9d011fab-e36a-4e55-b387-ef0fe09804d4" duration-ms="14547" started-at="2014-08-01T07:36:33Z" finished-at="2014-08-01T07:36:48Z">
+      <class name="IP.TestIP">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:IP.TestIP@7c6768]" name="SetUp" is-config="true" duration-ms="14540" started-at="2014-08-01T15:36:33Z" finished-at="2014-08-01T15:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:IP.TestIP@7c6768]" name="Test" duration-ms="0" started-at="2014-08-01T15:36:48Z" finished-at="2014-08-01T15:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- IP.TestIP -->
+    </test> <!-- Command line test 9d011fab-e36a-4e55-b387-ef0fe09804d4 -->
+  </suite> <!-- TmpSuite -->
+</testng-results>
