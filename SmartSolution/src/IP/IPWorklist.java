@@ -13,7 +13,7 @@ public class IPWorklist {
  
 // create a WebDriver
 WebDriver driver;
- //HELLO WORLD
+ 
 // use the Firefox browser and go to the wikipedia site
 @BeforeClass
 public void setUp() throws Exception{
